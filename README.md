@@ -7,8 +7,11 @@ Explore my SQL case studies and projects in my portfolio.
 
 ## 🛠️ Tools
 Language: SQL
+
 Database: Google BigQuery, PostgreSQL, MySQL
+
 Visualization: Tableau 
+
 Spreadsheet: Excel, Google Sheets
 
 ## 👋🏻 Connect with Me
