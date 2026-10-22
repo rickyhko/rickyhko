@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🙋 Introducing Myself
 
-<!--
-**rickyhko/rickyhko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Ricky! A data analyst with a background in sales and finance. I combine SQL and analytics with an understanding of how the numbers behind a business actually work.
 
-Here are some ideas to get you started:
+## 📚 Projects
+Explore my SQL case studies and projects in my portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+Language: SQL
+Database: Google BigQuery, PostgreSQL, MySQL
+Visualization: Tableau 
+Spreadsheet: Excel, Google Sheets
+
+## 👋🏻 Connect with Me
+[Linkedin]([url](https://www.linkedin.com/in/ricky-handoko-39b062153/))
