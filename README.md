@@ -12,4 +12,4 @@ Visualization: Tableau
 Spreadsheet: Excel, Google Sheets
 
 ## 👋🏻 Connect with Me
-[Linkedin]([url](https://www.linkedin.com/in/ricky-handoko-39b062153/?isSelfProfile=true))
+[Linkedin]((https://www.linkedin.com/in/ricky-handoko-39b062153/?isSelfProfile=true))
