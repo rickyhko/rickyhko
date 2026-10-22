@@ -6,7 +6,7 @@ Hello, I'm Ricky! A data analyst with a background in sales and finance. I combi
 Explore my SQL case studies and projects in my portfolio.
 
 ## 🛠️ Tools
-Language: [SQL](https://github.com/rickyhko/sql_data_project)
+Language: [SQL](https://github.com/rickyhko/sql_data_project) (Data Warehouse and Cleaning)
 
 Database: Google BigQuery, PostgreSQL, MySQL
 
