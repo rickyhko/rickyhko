@@ -10,7 +10,7 @@ Language: [SQL](https://github.com/rickyhko/sql_data_project)
 
 Database: Google BigQuery, PostgreSQL, MySQL
 
-Visualization: Tableau 
+Visualization: Power BI
 
 Spreadsheet: Excel, Google Sheets
 
