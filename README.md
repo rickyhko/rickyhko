@@ -12,7 +12,7 @@ Database: Google BigQuery, PostgreSQL, MySQL
 
 Visualization: Power BI
 
-Spreadsheet: Excel, Google Sheets
+Spreadsheet: [Excel](https://github.com/rickyhko/EXCEL/blob/main/README.md), Google Sheets
 
 ## 👋🏻 Connect with Me
 [Linkedin](https://www.linkedin.com/in/ricky-handoko-39b062153/?isSelfProfile=true)
